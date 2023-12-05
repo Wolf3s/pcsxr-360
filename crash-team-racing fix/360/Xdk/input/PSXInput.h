@@ -1,1 +1,0 @@
-void PSxInputReadPort(PadDataS* pad, int port);
