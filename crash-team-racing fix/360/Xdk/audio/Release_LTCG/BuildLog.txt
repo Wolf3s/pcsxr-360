@@ -1,0 +1,49 @@
+﻿Build started 27/06/2023 16:24:21.
+     1>Project "C:\dev\homebrew\xbox 360\pcsxr-360-sources\PCSXR\pcsxr-360-2.1.0-src\360\Xdk\audio\audio.vcxproj" on node 5 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release_LTCG\audio.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         D:\xbox360-dev\XDK\bin\win32\CL.exe /c /I../../common/ /I../../../libpcsxcore/ /I"../../lib/zlib-1.2.5/" /Zi /nologo /W0 /WX- /MP /Ox /Ob1 /Oi /Ot /GT /GL /D NDEBUG /D _XBOX /D LTCG /D _LIB /D __BIG_ENDIAN__ /D __BIGENDIAN__ /D __ppc__ /D __PPC__ /D _MBCS /GF /Gm- /MT /GS- /Gy- /fp:fast /fp:except- /Zc:wchar_t /Zc:forScope /GR- /openmp- /Fo"Release_LTCG\\" /Fd"Release_LTCG\vc100.pdb" /TC ..\..\..\plugins\dfsound\adsr.c ..\..\..\plugins\dfsound\cfg.c ..\..\..\plugins\dfsound\dma.c ..\..\..\plugins\dfsound\externals.c ..\..\..\plugins\dfsound\freeze.c ..\..\..\plugins\dfsound\nullsnd.c ..\..\..\plugins\dfsound\registers.c ..\..\..\plugins\dfsound\reverb.c ..\..\..\plugins\dfsound\sdl\SDL_audio.c ..\..\..\plugins\dfsound\sdl\SDL_audiocvt.c ..\..\..\plugins\dfsound\sdl\SDL_audiodev.c ..\..\..\plugins\dfsound\sdl\SDL_audiotypecvt.c ..\..\..\plugins\dfsound\sdl\SDL_xaudio2.c ..\..\..\plugins\dfsound\sdl_2.c ..\..\..\plugins\dfsound\xa.c /Oc /Ou /Oz /FI"D:\xbox360-dev\XDK\\include\xbox\xbox_intellisense_platform.h"
+         adsr.c
+         cfg.c
+         dma.c
+         externals.c
+         freeze.c
+         nullsnd.c
+         registers.c
+         reverb.c
+         SDL_audio.c
+         SDL_audiocvt.c
+         SDL_audiodev.c
+         SDL_audiotypecvt.c
+         SDL_xaudio2.c
+         sdl_2.c
+         xa.c
+         D:\xbox360-dev\XDK\bin\win32\CL.exe /c /I../../common/ /I../../../libpcsxcore/ /I"../../lib/zlib-1.2.5/" /Zi /nologo /W0 /WX- /MP /Ox /Ob1 /Oi /Ot /GL /D NDEBUG /D _XBOX /D LTCG /D _LIB /D __BIG_ENDIAN__ /D __BIGENDIAN__ /D __ppc__ /D __PPC__ /D _MBCS /GF /Gm- /MT /GS- /Gy- /fp:fast /fp:except- /Zc:wchar_t /Zc:forScope /GR- /openmp- /Fo"Release_LTCG\\" /Fd"Release_LTCG\vc100.pdb" /TC ..\..\..\plugins\dfsound\spu.c /Oc /Ou /Oz /FI"D:\xbox360-dev\XDK\\include\xbox\xbox_intellisense_platform.h"
+         spu.c
+       Lib:
+         D:\xbox360-dev\XDK\bin\win32\Lib.exe /OUT:"C:\dev\homebrew\xbox 360\pcsxr-360-sources\PCSXR\pcsxr-360-2.1.0-src\360\Xdk\audio\Release_LTCG\audio.lib" /NOLOGO /LTCG Release_LTCG\adsr.obj
+         Release_LTCG\cfg.obj
+         Release_LTCG\dma.obj
+         Release_LTCG\externals.obj
+         Release_LTCG\freeze.obj
+         Release_LTCG\nullsnd.obj
+         Release_LTCG\registers.obj
+         Release_LTCG\reverb.obj
+         Release_LTCG\SDL_audio.obj
+         Release_LTCG\SDL_audiocvt.obj
+         Release_LTCG\SDL_audiodev.obj
+         Release_LTCG\SDL_audiotypecvt.obj
+         Release_LTCG\SDL_xaudio2.obj
+         Release_LTCG\sdl_2.obj
+         Release_LTCG\spu.obj
+         Release_LTCG\xa.obj
+         audio.vcxproj -> C:\dev\homebrew\xbox 360\pcsxr-360-sources\PCSXR\pcsxr-360-2.1.0-src\360\Xdk\audio\Release_LTCG\audio.lib
+       FinalizeBuildStatus:
+         Deleting file "Release_LTCG\audio.unsuccessfulbuild".
+         Touching "Release_LTCG\audio.lastbuildstate".
+     1>Done Building Project "C:\dev\homebrew\xbox 360\pcsxr-360-sources\PCSXR\pcsxr-360-2.1.0-src\360\Xdk\audio\audio.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.19

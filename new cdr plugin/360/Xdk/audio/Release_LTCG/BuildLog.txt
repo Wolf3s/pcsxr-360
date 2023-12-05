@@ -1,9 +1,0 @@
-﻿Build started 10/8/2015 09:25:14.
-Project "C:\Arquivos de programas\clovis\sources\pcxsr source fix\pcsx360-newcdr-src-spu-fixed\360\Xdk\audio\audio.vcxproj" on node 2 (clean target(s)).
-_PrepareForClean:
-  Deleting file "Release_LTCG\audio.lastbuildstate".
-Done Building Project "C:\Arquivos de programas\clovis\sources\pcxsr source fix\pcsx360-newcdr-src-spu-fixed\360\Xdk\audio\audio.vcxproj" (clean target(s)).
-
-Build succeeded.
-
-Time Elapsed 00:00:00.25

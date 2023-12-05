@@ -1,9 +1,0 @@
-﻿Build started 10/8/2015 09:25:16.
-Project "C:\Arquivos de programas\clovis\sources\pcxsr source fix\pcsx360-newcdr-src-spu-fixed\360\Xdk\core\core.vcxproj" on node 2 (clean target(s)).
-_PrepareForClean:
-  Deleting file "Release_LTCG\core.lastbuildstate".
-Done Building Project "C:\Arquivos de programas\clovis\sources\pcxsr source fix\pcsx360-newcdr-src-spu-fixed\360\Xdk\core\core.vcxproj" (clean target(s)).
-
-Build succeeded.
-
-Time Elapsed 00:00:00.32

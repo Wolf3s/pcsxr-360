@@ -1,0 +1,12 @@
+﻿Build started 27/06/2023 16:24:21.
+     1>Project "C:\dev\homebrew\xbox 360\pcsxr-360-sources\PCSXR\pcsxr-360-2.1.0-src\360\Xdk\cdrom\cdrom.vcxproj" on node 8 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release_LTCG\cdrom.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       FinalizeBuildStatus:
+         Deleting file "Release_LTCG\cdrom.unsuccessfulbuild".
+         Touching "Release_LTCG\cdrom.lastbuildstate".
+     1>Done Building Project "C:\dev\homebrew\xbox 360\pcsxr-360-sources\PCSXR\pcsxr-360-2.1.0-src\360\Xdk\cdrom\cdrom.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03
